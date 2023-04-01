@@ -1,7 +1,11 @@
 <HTML>
 <HEAD>
 <BODY>
-document.getElementById("myP").style.color = "magenta";
+function changeBackground(color) {
+   document.body.style.background = color;
+}
+
+window.addEventListener("load",function() { changeBackground('red') });
 <SCRIPT>
 var x = parseInt(prompt("Enter Value Of X:"));
 var y = parseInt(prompt("Enter Value Of Y:"));
