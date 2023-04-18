@@ -1,13 +1,21 @@
 h1{
 font-size: 60px;
-color: rgb(230, 230, 250) ;
+color: rgb(186, 208, 222) ;
 margin: 0;
 text-align:center;
 font-family: 'Sacramento', cursive;
 }
-h2{
-font-size: 15px;
-color: rgb(255, 240, 245) ;
-margin: 0;
+
+a{
+text-decoration:none;
+font-size: 20px;
+text-transform: uppercase;
+color: rgb(221, 230, 207);
+padding: 8px 16pxx;
 font-family: 'Shrikhand', cursive;
-}
+
+a:hover{
+background-color:#D3EBE9;
+color:rgb(221, 230, 207);
+border: 1pxxx solid rgb(221, 230, 207);
+transition:0.25s ease-in;
