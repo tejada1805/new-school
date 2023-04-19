@@ -38,7 +38,7 @@ top: 10px
 .nav-container{
 float:right;
 }
-.nav-container ul li a {
+.nav-container ul li {
 display: inline-block;
 }
 
