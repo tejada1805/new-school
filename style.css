@@ -1,8 +1,12 @@
+html {
+width:100;
+height:100;
+}
 h1{
 font-size: 60px;
 color: rgb(186, 208, 222) ;
 margin: 0;
-text-align:center;
+text-align:left;
 font-family: 'Sacramento', cursive;
 }
 
@@ -19,11 +23,8 @@ background-color:#D3EBE9;
 color:rgb(221, 230, 207);
 border: 1pxxx solid rgb(221, 230, 207);
 transition:0.25s ease-in;
-  }
-html {
-width:100;
-height:100;
-}
+ }
+
 body{
 width:  100%;
 height: 100%;
