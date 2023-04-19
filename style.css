@@ -54,8 +54,8 @@ color: #D3EBE9;
 transition:0.25s ease-in;
 
 }
-#container-bg{
-  background:url(img/blossom.png) no-repeat center center fixed;
+#container-bg
+  background:url(img/blossom-bg.png) no-repeat center center fixed;
  background-size: cover;
   background-attachment: fixed;
   with:100%;
