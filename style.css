@@ -103,11 +103,20 @@ font-size: 22px;
 .grid-layout-50 > div {
   border: 1px solid blue;
   padding: 8px;
-  margin: 10px;
+
 }
 .grid-layout-50 {
   display: grid;
   grid-template-columns: 30% 30% 30%;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
   height: 500px;
 }
-
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
