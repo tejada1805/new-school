@@ -111,3 +111,8 @@ font-size: 22px;
   grid-row-gap: 1em;
   height: 500px;
 }
+
+div img {
+   display: block;
+   width: 100%;
+}
