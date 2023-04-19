@@ -57,7 +57,7 @@ transition:0.25s ease-in;
   background:url(img/blossom-bg.png) no-repeat center center fixed;
  background-size: cover;
   background-attachment: fixed;
-  with:100%;
+  width:100%;
   height:100%;
 }
 #test{
