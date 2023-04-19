@@ -99,4 +99,12 @@ font-size: 22px;
   transform:translate(-50%,-50%);
 }
 
-
+.grid-layout-50 > div {
+  border: 1px solid blue;
+  padding: 8px;
+}
+.grid-layout-50 {
+  display: grid;
+  height: 500px;
+}
+}
