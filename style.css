@@ -37,9 +37,9 @@ background-color:#8a84e2;
 float:right;
 }
 
-.nav-container ul li {
+.nav-container li {
 display: inline-block;
 }
-.nav-container ul li a {
+.nav-container li a {
 color: #68edc6
 }
