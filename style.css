@@ -28,12 +28,6 @@ header {
 height: 60px;
 background-color:#8a84e2;
 }
-header img{
-width: 40px;
-position: relative;
-left: 120px
-top: 10px
-}
 
 .nav-container{
 float:right;
