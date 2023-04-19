@@ -102,9 +102,11 @@ font-size: 22px;
 .grid-layout-50 > div {
   border: 1px solid blue;
   padding: 8px;
+  margin: 10px;
 }
 .grid-layout-50 {
   display: grid;
+  grid-template-columns: 40% 30% 30%;
   height: 500px;
 }
-}
+
