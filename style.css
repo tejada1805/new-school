@@ -78,3 +78,10 @@ text-transform:uppercase;
   color:#ffffff;
   margin:20px 0px 60px 0px;
 }
+.content-wrapper a{
+color: #000000;
+text-decoration:none;
+border:1px soliod #000000;
+padding: 8px 16px;
+font-size: 22px;
+}
