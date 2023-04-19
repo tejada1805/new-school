@@ -3,6 +3,10 @@ width:100%;
 height:100%;
 font-family:'Reenie Beanie', cursive;
 }
+h1{
+  font-size:60px;
+  color:#7371fc;
+  margin: 0;
 a{
 text-decoration:none;
 font-size:20px;
