@@ -1,9 +1,15 @@
 html {
-width:100;
-height:100;
+width:100%;
+height:100%;
 font-family:'Reenie Beanie', cursive;
 }
-
+a{
+text-decoration:none;
+font-size:20px;
+  text-transform:uppercase;
+  color:#b3dee2;
+  padding:8px 16px;
+}
 body{
   with:100%;
   height:100%;
