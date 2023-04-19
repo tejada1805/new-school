@@ -61,12 +61,13 @@ transition:0.25s ease-in;
 }
 #test{
   height:1000px;
+  text-align:center;
 }
 
 .content-wrapper{
 margin:0 auto:
 width:80%;
-text-align:right;
+text-align:center;
 position:relative;
 top30%;
 }
