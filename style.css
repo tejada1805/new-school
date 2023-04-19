@@ -107,7 +107,7 @@ font-size: 22px;
 }
 .grid-layout-50 {
   display: grid;
-  grid-template-columns: 40% 30% 30%;
+  grid-template-columns: 30% 30% 30%;
   height: 500px;
 }
 
