@@ -5,7 +5,7 @@ font-family:'Reenie Beanie', cursive;
 }
 h1{
   font-size:60px;
-  color:#000000;
+  color:#898C96;
   margin: 0;
 }
 a{
@@ -75,13 +75,24 @@ p{
 }
 .content-wrapper p{
 text-transform:uppercase;
-  color:#000000;
+  color:#898C96;
   margin:20px 0px 60px 0px;
 }
 .content-wrapper a{
-color: #000000;
+color: #898C96;
 text-decoration:none;
 border:1px soliod #000000;
 padding: 8px 16px;
 font-size: 22px;
 }
+
+.btn-down{
+  margin:0 auto;
+  text-align:center:
+}
+.btn-down .fas{
+  color:#000000;
+  font-size:40px;
+  position: absolute;
+  bottom: 0px;
+  transform:translate(-50%,-50%);
