@@ -83,42 +83,10 @@ text-transform:uppercase;
  margin:20px 0px 60px 0px;
 }
 
-.btn-down{
-  margin:0 auto;
-  text-align:center;
-}
-.btn-down .fas{
-  color:#00308F;
-  font-size:40px;
-  position: absolute;
-  bottom: 100px;
-  transform:translate(-50%,-50%);
-}
+
 h2{
 color:#000000;
 font-size:42px;
-}
-hr{
-width:30px;
-}
-
-#introduction-section{
-margin: 80px auto 0 auto;
-text-align:center;
-}
-#grid-layout-33 {
-display: grid;
-grid-temple-columns: 1fr 1fr 1fr;
-grid-gap: 3em;
-width: 80%;
-margin:0 auto;
-}
-#grid-layout-33 > div {
-background-color:#DBEBFF;
-padding: 18px;
-text-align: center;
-box-shadow: 0px 0px 10px #C8E0FD;
-margin: 80px auto 40px auto;
 }
 
 
